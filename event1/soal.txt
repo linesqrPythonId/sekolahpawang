@@ -1,0 +1,12 @@
+[Uyiz|Dofukizi;251220019]
+*Simulasi pembuatan aplikasi login*
+
+Bikinlah program yang bisa mengucapkan selamat pagi, siang, sore atau malam ketika program sedang dijalankan sesuai dengan waktu pada perangkat laptop atau hp
+
+Kemudian, buatlah sebuah program yang bisa melakukan login Admin serta pembuatan akun (sign up) dan login akun (sign in)
+
+Ketika Admin atau client salah memasukkan password sebanyak 3 kali, maka user tersebut akan dibanned dan diberi notifikasi untuk menghubungi operator atau petugas lalu program langsung keluar atau berhenti
+
+Tapi, pada saat salah memasukkan password (sisa 2× kesempatan atau 1× kesempatan), kemudian melakukan login lagi dengan menggunakan username dan password yang benar, jatah banned akan kembali normal sebanyak 3 kali
+
+Buatlah program tersebut sekreatif mungkin.
